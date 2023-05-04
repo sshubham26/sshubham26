@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Shubham Sahu
  I’m currently working on JAVA Backend Development<br>I’m currently learning JAVA, JDBC ,MySQL ,  Spring Boot.<br> All of my projects are available at (https://sshubham26.github.io/)<br>Ask me about HTML5, CSS3, JavaScript, JAVA, Spring BOOT, MySQL<br> How to reach me sshubham026@gmail.com<br>⚡ Fun fact Did you know that the term "debugging" comes from an actual bug? Yes, that's right! Back in the 1940s, a moth flew into a computer and caused a malfunction. The technician who found the moth taped it into the log book with the note "first actual case of bug being found." And thus, the term "debugging" was born. It's a good thing the moth wasn't a butterfly, or we might be calling it "butterflying" instead.<br>
 
 
